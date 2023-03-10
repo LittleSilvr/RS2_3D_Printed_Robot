@@ -28,7 +28,11 @@ Instructions on how to use your project, including examples of command-line opti
 
 ## License:
 
-This project is open source.
+This project is licensed under the MIT License.
+
+The MIT License is a permissive open-source software license that allows for free use, modification, and distribution of the code, as long as the original copyright and license notice is included in all copies or substantial portions of the code.
+
+By contributing to this project, you agree to license your contribution under the same terms as this project.
 
 ## Contacts:
 
