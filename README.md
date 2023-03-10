@@ -18,8 +18,6 @@ Before getting started, make sure you have the following prerequisites installed
 - ROS: ROS (Robot Operating System) is a set of software libraries and tools that help you build robot applications. Make sure ROS is installed before starting this project.
 - VSCode: Visual Studio Code is a source code editor that can be used with a variety of programming languages. It is recommended to use VSCode for this project.
 
-Getting Started:
-
 ### Installation:
 
 Step-by-step instructions on how to install your project.
