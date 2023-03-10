@@ -1,16 +1,16 @@
 # 3D Printed Robotic Arm - RS2
 
-Features:
+## Features:
 
-The 3D Printed Robotic Arm - RS2 is a powerful and versatile robotic arm that offers the following features:
+The 3D Printed Robotic Arm - RS2 is a compact and affordable robotic arm that offers the following features:
 
-- Impressive reach: With a reach of 0.5m, the RS2 can access a wide range of areas, making it perfect for a variety of applications.
-- High capacity: The arm can carry up to 0.5kg, making it capable of lifting and manipulating a range of objects.
-- Computer vision compatibility: The RS2 is compatible with computer vision software, allowing it to be programmed to recognize and interact with objects in its environment.
-- Modular, parametric limbs: The RS2's limbs are designed to be easily modified and customized to suit your specific needs. You can adjust the arm's length, strength, and other parameters as needed.
-- Fully 3D printed: The entire RS2 arm can be 3D printed using most household 3D printers, making it an affordable and accessible option for robotics enthusiasts.
+- Reach: With a reach of 0.5m, the RS2 can access objects in its immediate vicinity, making it suitable for small-scale applications.
+- Capacity: The arm can carry up to 0.5kg, making it capable of lifting and manipulating small objects.
+- Compatibility with computer vision software: The RS2 can be programmed to work with computer vision software, enabling it to detect and interact with objects in its environment.
+- Modular, parametric limbs: The RS2's limbs are designed to be easily modified and customized to suit your specific needs. You can adjust the arm's length, and other parameters as needed.
+- Fully 3D printed: The entire RS2 arm can be 3D printed using most household 3D printers, making it an affordable and accessible option for robotics enthusiasts and small businesses.
 
-Prerequisites:
+## Prerequisites:
 
 Before getting started, make sure you have the following prerequisites installed:
 
@@ -28,14 +28,15 @@ Step-by-step instructions on how to install your project.
 
 Instructions on how to use your project, including examples of command-line options, API calls, or user interfaces.
 
-License:
+## License:
 
 This project is open source.
 
-Contacts:
+## Contacts:
 
-For any questions or inquiries, please contact Alexander Robinson at alexander.w.robinson@student.uts.edu.au.
+For any questions or inquiries, please contact: 
+ - Alexander Robinson at alexander.w.robinson@student.uts.edu.au.
 
-Contributing:
+## Contributing:
 
 Instructions on how others can contribute to your project, including guidelines for submitting bug reports, feature requests, and pull requests.
