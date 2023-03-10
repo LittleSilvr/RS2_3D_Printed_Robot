@@ -20,7 +20,7 @@ Before getting started, make sure you have the following prerequisites installed
 
 Getting Started:
 
-### Installation
+### Installation:
 
 Step-by-step instructions on how to install your project.
 
