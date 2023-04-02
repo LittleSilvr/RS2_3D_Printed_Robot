@@ -14,15 +14,24 @@ The 3D Printed Robotic Arm - RS2 is a compact and affordable robotic arm that of
 
 Before getting started, make sure you have the following prerequisites installed:
 
-- Linux: This project requires a Linux operating system to be installed.
+- Linux: This project requires a Ubunto 20.04 operating system to be installed.
 - ROS: ROS (Robot Operating System) is a set of software libraries and tools that help you build robot applications. Make sure ROS is installed before starting this project.
 - VSCode: Visual Studio Code is a source code editor that can be used with a variety of programming languages. It is recommended to use VSCode for this project.
+ - rosserial: rosserial must be installed prior to launch to ensure a communcaiotn between microcontrollers such as arduinos is possible
+ ```cd ~/Arduino/libraries```
+```rm -rf ros_lib```
+```rosrun rosserial_arduino make_libraries.py .```
+
 
 ### Installation:
 
 Step-by-step instructions on how to install your project.
 
 ### Usage
+
+0. Start ROS and open new terminal window
+
+```roscore```
 
 1. Have arduino code uploaded
 
