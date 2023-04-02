@@ -1,34 +1,20 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import rospy
-from std_msgs.msg import String
+from std_msgs.msg import Int32
 
-def subscriber_callback(msg):
-    # Your code to process the received message goes here
-    pass
+rospy.init_node('test_data_publisher')
+pub = rospy.Publisher('testData', Int32, queue_size=10)
 
-def main():
-    rospy.init_node('node_name', anonymous=True)
-    
-    # Create a subscriber to listen to a topic
-    rospy.Subscriber('topic_name', String, subscriber_callback)
-    
-    # Create a publisher to send messages to a topic
-    pub = rospy.Publisher('topic_name', String, queue_size=10)
-    
-    # Set the publishing rate (in Hz)
-    rate = rospy.Rate(10)
-    
-    while not rospy.is_shutdown():
-        # Your code to generate a message goes here
-        msg = String()
-        msg.data = 'Hello, world!'
-        
-        # Publish the message
-        pub.publish(msg)
-        
-        # Sleep to maintain the publishing rate
-        rate.sleep()
+rate = rospy.Rate(10)  # publish at 10 Hz
+count = 0
 
-if __name__ == '__main__':
-    main()
+while not rospy.is_shutdown():
+    pub.publish(count)
+
+    if count == 256:
+        count = 0
+    else:
+        count += 1
+
+    rate.sleep()
