@@ -12,9 +12,9 @@ count = 0
 while not rospy.is_shutdown():
     pub.publish(count)
 
-    if count == 256:
+    if count == 100:
         count = 0
     else:
-        count += 1
+        count += 2
 
     rate.sleep()

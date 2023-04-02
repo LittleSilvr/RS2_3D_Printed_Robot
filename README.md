@@ -24,7 +24,23 @@ Step-by-step instructions on how to install your project.
 
 ### Usage
 
-Instructions on how to use your project, including examples of command-line options, API calls, or user interfaces.
+1. Have arduino code uploaded
+
+2. Close arduino IDE
+
+3. Ensure arduino is plugged into ROS platform
+
+4. Run rosserial_node.py in terminal
+
+```rosrun rosserial_python serial_node.py /dev/ttyACM1 _baud:=57600 __name:=arduino_uno```
+
+5. Run rosTest.py in terminal
+
+```rosrun rs2_pkg rosTest.py```
+
+6. Echo the data for verification
+
+```rostopic echo /testData```
 
 ## License:
 
