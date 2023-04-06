@@ -66,6 +66,7 @@ For any questions or inquiries, please contact:
  - Hamish Shaw at hamish.p.shaw@student.uts.edu.au
  - Angus Cheng at angus.m.cheng@student.uts.edu.au
  - Jack McCann at jack.mccann@student.uts.edu.au
+ - Bjarne Ungemach at bjarne.ungemach@student.uts.edu.au
 
 ## Contributing:
 
