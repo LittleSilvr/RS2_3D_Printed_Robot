@@ -62,11 +62,11 @@ By contributing to this project, you agree to license your contribution under th
 ## Contacts:
 
 For any questions or inquiries, please contact: 
- - Alexander Robinson at alexander.w.robinson@student.uts.edu.au.
- - Hamish Shaw at hamish.p.shaw@student.uts.edu.au
- - Angus Cheng at angus.m.cheng@student.uts.edu.au
- - Jack McCann at jack.mccann@student.uts.edu.au
- - Bjarne Ungemach at bjarne.ungemach@student.uts.edu.au
+ - Alexander Robinson @ alexander.w.robinson@student.uts.edu.au.
+ - Hamish Shaw @ hamish.p.shaw@student.uts.edu.au
+ - Jack McCann @ jack.mccann@student.uts.edu.au
+ - Bjarne Ungemach @ bjarne.ungemach@student.uts.edu.au
+ - Ethan So @
 
 ## Contributing:
 
