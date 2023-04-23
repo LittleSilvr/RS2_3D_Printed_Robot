@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/hamish/ws_moveit/devel/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/hamish/ws_moveit/src/geometric_shapes/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/hamish/ws_moveit/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_ros/benchmarks/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_ros/move_group/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_setup_assistant/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/hamish/ws_moveit/src/moveit_visual_tools/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/hamish/ws_moveit/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/hamish/ws_moveit/src/rviz_visual_tools/include/**",
+        "/home/hamish/ws_moveit/src/srdfdom/include/**",
+        "/home/hamish/ws_moveit/src/universal_robot/ur_kinematics/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
