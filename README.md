@@ -66,7 +66,7 @@ For any questions or inquiries, please contact:
  - Hamish Shaw @ hamish.p.shaw@student.uts.edu.au
  - Jack McCann @ jack.mccann@student.uts.edu.au
  - Bjarne Ungemach @ bjarne.ungemach@student.uts.edu.au
- - Ethan So @
+ - Ethan So @ ethan.j.so@student.uts.edu.au
 
 ## Contributing:
 
